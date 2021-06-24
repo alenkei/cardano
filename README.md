@@ -1,3 +1,3 @@
-# plutusIncubation
+# Cardano
 
-This is my Plutus incubation project.
+This is my Cardano incubation project.
